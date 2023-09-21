@@ -1,0 +1,18 @@
+:root {
+    /*color */
+    --color-text: #ffffff;
+    --color-primary: #ffffff;
+    --color-secondary: #ffffff;
+    --color-darck: #ffffff;
+
+    
+    /*--color-bg: #ff0000;*/
+
+    /* FONTS */
+    --font-roboto: "Roboto";
+
+    background-image: url('/img3.png');
+    background-size: cover; 
+    background-repeat: no-repeat;
+
+}
